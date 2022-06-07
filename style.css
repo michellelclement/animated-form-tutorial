@@ -44,6 +44,8 @@ form {
   top: 0;
   border: none;
   outline: none;
+  color: #575555;
+  font-size: 1rem;
 }
 
 .input-container {
