@@ -82,6 +82,7 @@ form {
 .checkbox {
   opacity: 0;
   cursor: pointer;
+  z-index: 5;
 }
 
 .checkbox-container {
