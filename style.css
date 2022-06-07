@@ -43,6 +43,7 @@ form {
   position: absolute;
   top: 0;
   border: none;
+  outline: none;
 }
 
 .input-container {
@@ -55,13 +56,14 @@ form {
   pointer-events: none;
   padding: 0.3rem 0rem;
   font-size: 0.9rem;
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .line-svg {
   position: absolute;
   left: 0;
   bottom: 0;
+  overflow: visible;
 }
 
 .checkbox-label {
