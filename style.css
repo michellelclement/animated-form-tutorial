@@ -57,6 +57,7 @@ form {
   padding: 0.3rem 0rem;
   font-size: 0.9rem;
   opacity: 0.8;
+  transform-origin: left;
 }
 
 .line-svg {
